@@ -13,4 +13,4 @@ The main objectives of this project are:
 
 
 ## Dataset Used
-- <a href= "https://github.com/dhok07/Netflix-Data-Alanysis/blob/main/netflix_titles.csv">Netflix-DataSet<a/a>
+- <a href="https://github.com/dhok07/Netflix-Data-Alanysis/blob/main/netflix_titles.csv">Netflix-DataSet</a>
