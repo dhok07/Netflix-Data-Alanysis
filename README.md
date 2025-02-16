@@ -14,3 +14,16 @@ The main objectives of this project are:
 
 ## Dataset Used
 - <a href="https://github.com/dhok07/Netflix-Data-Alanysis/blob/main/netflix_titles.csv">Netflix-DataSet</a>
+
+
+## Key Questions (KPIs)
+- How is Netflix's content distributed between movies and TV shows?
+- Percentage of movies vs. TV shows.
+- What are the most common genres on Netflix?
+- Top 10 genres based on content count.
+- How does Netflix categorize content based on ratings?
+- Distribution of content ratings (e.g., PG-13, TV-MA, R).
+- How has the addition of movies and TV shows evolved over time?
+- Year-wise count of added titles.
+- Which countries contribute the most content to Netflix?
+- Number of titles per country.
