@@ -27,3 +27,7 @@ The main objectives of this project are:
 - Year-wise count of added titles.
 - Which countries contribute the most content to Netflix?
 - Number of titles per country.
+
+
+## Dashboard Interaction
+- <a href="https://public.tableau.com/app/profile/shrikant.dhok/viz/Book1_17392696194750/Dashboard1?publish=yes">Netflix-Dashboard</a>
