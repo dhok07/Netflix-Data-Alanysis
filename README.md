@@ -10,3 +10,7 @@ The main objectives of this project are:
 - To examine content ratings and their distribution.
 - To track trends in the addition of content over time.
 - To visualize geographical distribution and trends in Netflix's catalog.
+
+
+## Dataset Used
+- <a "https://github.com/dhok07/Netflix-Data-Alanysis/blob/main/netflix_titles.csv">Netflix Data Analysis<a/a>
