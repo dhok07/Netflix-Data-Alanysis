@@ -31,3 +31,35 @@ The main objectives of this project are:
 
 ## Dashboard Interaction
 - <a href="https://public.tableau.com/app/profile/shrikant.dhok/viz/Book1_17392696194750/Dashboard1?publish=yes">Netflix-Dashboard</a>
+
+
+
+
+## Process
+1) Data Collection
+ - Dataset: netflix_titles.csv (sourced from Kaggle or other repositories).
+2) Data Cleaning & Preprocessing
+ - Handling missing values.
+ - Standardizing data formats (e.g., date conversion).
+ - Removing duplicates and inconsistencies.
+3) Exploratory Data Analysis (EDA)
+ - Distribution of movies vs. TV shows.
+ - Top genres and their frequency.
+ - Analysis of ratings.
+ - Trends in content addition over the years.
+ - Country-wise distribution of content.
+4) Data Visualization
+ - Bar charts, pie charts, and line graphs to represent key metrics.
+ - Map visualization for country-wise content distribution.
+
+## Project Insights
+
+- Netflix has a higher percentage of movies (68.42%) compared to TV shows (31.58%).
+- The most popular genres include Documentaries, Stand-Up Comedy, and Dramas.
+- TV-MA (Mature Audience) is the most frequent rating, indicating a preference for mature content.
+- Content addition peaked in 2019, showing significant growth.
+- The United States and India contribute the most content to Netflix.
+
+
+## Final Conclusion
+This analysis highlights Netflix's content strategy, which favors movies over TV shows and heavily focuses on mature-rated content. The platform has witnessed significant growth, especially in the last decade, with a peak in 2019. These insights can be valuable for content creators, marketers, and businesses looking to understand Netflix’s content trends and user preferences.
